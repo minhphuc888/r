@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6097CE6F-5DFC-46CE-AE33-E8239A4CF4E7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication5</RootNamespace>
+    <AssemblyName>WindowsFormsApplication5</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="control1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="control1.Designer.cs">
+      <DependentUpon>control1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="control2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="control2.Designer.cs">
+      <DependentUpon>control2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="control3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="control3.Designer.cs">
+      <DependentUpon>control3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="control4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="control4.Designer.cs">
+      <DependentUpon>control4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="control5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="control5.Designer.cs">
+      <DependentUpon>control5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKiemTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKiemTra.Designer.cs">
+      <DependentUpon>FormKiemTra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdangnhap.Designer.cs">
+      <DependentUpon>Formdangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formnguon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formnguon.Designer.cs">
+      <DependentUpon>Formnguon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper\ArcDrawer.cs" />
+    <Compile Include="Helper\ClosedCurveDrawer.cs" />
+    <Compile Include="Helper\CommonConst.cs" />
+    <Compile Include="Helper\DrawHelper.cs" />
+    <Compile Include="Helper\VeDoiTuongDiChuyenHelper.cs" />
+    <Compile Include="Model\ArcDrawerModel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="control1.resx">
+      <DependentUpon>control1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="control2.resx">
+      <DependentUpon>control2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="control3.resx">
+      <DependentUpon>control3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="control4.resx">
+      <DependentUpon>control4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="control5.resx">
+      <DependentUpon>control5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKiemTra.resx">
+      <DependentUpon>FormKiemTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdangnhap.resx">
+      <DependentUpon>Formdangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formnguon.resx">
+      <DependentUpon>Formnguon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\h.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zzzzzzzzz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lllll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hhhhhff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yyyy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OOOOOO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dmm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dmm1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caiday.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caiday.pngf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27707876_1999562286928163_68152426_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nguon.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gif1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\01.png" />
+    <Content Include="Resources\01112.png" />
+    <None Include="Resources\images %285%29.jpg" />
+    <None Include="Resources\tải xuống %289%291.jpg" />
+    <None Include="Resources\tải xuống %289%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

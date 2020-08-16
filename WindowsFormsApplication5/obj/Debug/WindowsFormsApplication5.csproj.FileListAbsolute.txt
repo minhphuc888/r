@@ -1,0 +1,179 @@
+c:\users\nhu y\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\nhu y\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\nhu y\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\nhu y\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\nhu y\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\nhu y\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\nhu y\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\nhu y\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\nhu y\documents\visual studio 2012\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\nhu y\Documents\Visual Studio 2012\Projects\laptrinhvongtron\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\nhu y\Documents\Visual Studio 2012\Projects\laptrinhvongtron\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\nhu y\Documents\Visual Studio 2012\Projects\laptrinhvongtron\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\nhu y\Documents\Visual Studio 2012\Projects\laptrinhvongtron\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\nhu y\Documents\Visual Studio 2012\Projects\laptrinhvongtron\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\nhu y\Documents\Visual Studio 2012\Projects\laptrinhvongtron\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\nhu y\Documents\Visual Studio 2012\Projects\laptrinhvongtron\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\nhu y\Documents\Visual Studio 2012\Projects\laptrinhvongtron\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+C:\Users\nhu y\Documents\Visual Studio 2012\Projects\laptrinhvongtron\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+C:\Users\nhu y\Documents\Visual Studio 2012\Projects\laptrinhvongtron\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\lap trinh\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\lap trinh\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\lap trinh\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\lap trinh\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\lap trinh\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\lap trinh\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\lap trinh\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+E:\lap trinh\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+E:\lap trinh\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\lap trinh\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+E:\lap trinh\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Minh Phuc\Downloads\Compressed\tronmoi\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Phuc\Downloads\tronmoi-20180223T153721Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\nhu y\Desktop\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FORMNGUON1.resources
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FORMNGUON1.resources
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+F:\moinhat\New folder (2)\New folder\tronmoi-20180304T164223Z-001\tronmoi\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FORMNGUON1.resources
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\Counter Strike Cataclysm\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FORMNGUON1.resources
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\laptrinhfruno\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FORMNGUON1.resources
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FORMNGUON1.resources
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\LAP TRINH POZICHIP\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form3.resources
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control1.resources
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control2.resources
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control3.resources
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control4.resources
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control5.resources
+E:\pozichp thu\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FORMKIEMTRA.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+D:\bantest\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\bantest\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control1.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control2.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control3.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control4.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control5.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formchinh.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FORMKIEMTRA.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form3.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\bantest\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojAssemblyReference.cache
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control1.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control2.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control3.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control4.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.control5.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FormMain.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FORMKIEMTRA.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form3.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formdangnhap.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Formnguon.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\Project PartTime\laptrinh\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
